@@ -1,0 +1,21 @@
+...
+6 StaticMesh(s) | 0 SkeletalMesh(s) | 0 Alembic(s) | 0 Animation(s) | 0 Camera(s) | 0 Other(s)
+
+[StaticMesh] -> "SM_Ground.fbx" exported in 0.0625 sec.
+C:\Users\heide\Documents\Unreal Projects\introproject\Content\Blender Imports\ExportedFbx\StaticMesh
+
+[StaticMesh] -> "SM_House.fbx" exported in 0.03125 sec.
+C:\Users\heide\Documents\Unreal Projects\introproject\Content\Blender Imports\ExportedFbx\StaticMesh
+
+[StaticMesh] -> "SM_mortar launcher.fbx" exported in 0.015625 sec.
+C:\Users\heide\Documents\Unreal Projects\introproject\Content\Blender Imports\ExportedFbx\StaticMesh
+
+[StaticMesh] -> "SM_mortar target.fbx" exported in 0.0 sec.
+C:\Users\heide\Documents\Unreal Projects\introproject\Content\Blender Imports\ExportedFbx\StaticMesh
+
+[StaticMesh] -> "SM_Grimbler.fbx" exported in 0.03125 sec.
+C:\Users\heide\Documents\Unreal Projects\introproject\Content\Blender Imports\ExportedFbx\StaticMesh
+
+[StaticMesh] -> "SM_mortar shell.fbx" exported in 0.03125 sec.
+C:\Users\heide\Documents\Unreal Projects\introproject\Content\Blender Imports\ExportedFbx\StaticMesh
+
